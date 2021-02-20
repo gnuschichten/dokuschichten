@@ -2,5 +2,8 @@
     "user.894445a1-b7a5-436a-b283-a7deb81a31b4": [],
     "user.bdc8662f-32cb-49ab-b764-d76fc2db01d9": [],
     "menu_link_content.669340a3-34dd-45c3-b6ac-88a1c8de1218": [],
-    "menu_link_content.daa60dbd-4690-4c88-9213-f407c5c01636": []
+    "menu_link_content.daa60dbd-4690-4c88-9213-f407c5c01636": [],
+    "node.72cb3f66-01c7-4809-8c9a-4a499084aa31": [
+        "user.bdc8662f-32cb-49ab-b764-d76fc2db01d9"
+    ]
 }

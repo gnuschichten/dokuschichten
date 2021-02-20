@@ -1,0 +1,23 @@
+uuid: 1a0e6dd4-d2ed-4513-ae69-ecf2904dbff0
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.markdown
+  module:
+    - text
+id: node.markdown.body
+field_name: body
+entity_type: node
+bundle: markdown
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+  required_summary: false
+field_type: text_with_summary
