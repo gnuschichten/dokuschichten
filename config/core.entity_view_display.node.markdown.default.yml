@@ -1,0 +1,28 @@
+uuid: addd2097-13ff-4267-867b-5479dfcbbeb1
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.markdown.body
+    - node.type.markdown
+  module:
+    - text
+    - user
+id: node.markdown.default
+targetEntityType: node
+bundle: markdown
+mode: default
+content:
+  body:
+    label: hidden
+    type: text_default
+    weight: 101
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden: {  }
