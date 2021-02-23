@@ -1,0 +1,55 @@
+{
+    "uuid": [
+        {
+            "value": "02198cc7-a662-47cb-96bd-6cce595a4309"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "bdc8662f-32cb-49ab-b764-d76fc2db01d9"
+        }
+    ],
+    "filename": [
+        {
+            "value": "geshifilter-languages.css"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/geshi\/geshifilter-languages.css"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "text\/css"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 10980
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2021-02-23T09:26:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-02-23T09:26:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

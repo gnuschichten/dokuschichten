@@ -1,0 +1,38 @@
+use_format_specific_options: false
+default_highlighting: GESHIFILTER_DEFAULT_DONOTHING
+default_line_numbering: 10
+use_highlight_string_for_php: false
+enable_keyword_urls: true
+decode_entities: false
+css_mode: 2
+code_container: '2'
+tags: pre
+tag_styles:
+  16: 16
+  1: 0
+  2: 0
+  4: 0
+  8: 0
+tab_width: 8
+language:
+  php:
+    enabled: true
+    tags: php
+  cpp:
+    tags: cpp
+  java:
+    tags: java
+  css:
+    enabled: true
+    tags: css
+  html4strict:
+    enabled: true
+    tags: html
+  javascript:
+    enabled: true
+    tags: js
+  jquery:
+    enabled: true
+    tags: jquery
+_core:
+  default_config_hash: 1jZtSc2CSiEBA45nbX0wMKFY3bmcilIwOBQCKFscK0U

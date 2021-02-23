@@ -1,0 +1,184 @@
+/**
+ * GeSHi Dynamically Generated Stylesheet
+ * --------------------------------------
+ * Dynamically generated stylesheet for css
+ * CSS class: geshifilter-css, CSS id: 
+ * GeSHi (C) 2004 - 2007 Nigel McNie, 2007 - 2014 Benny Baumann
+ * (http://qbnz.com/highlighter/ and http://geshi.org/)
+ * --------------------------------------
+ */
+.css.geshifilter-css .de1, .css.geshifilter-css .de2 {font-family: monospace; font-weight: normal; font-style: normal}
+.css.geshifilter-css  {font-family:monospace;}
+.css.geshifilter-css .imp {font-weight: bold; color: red;}
+.css.geshifilter-css li, .css.geshifilter-css .li1 {font-family: monospace; font-weight: normal;}
+.css.geshifilter-css .ln {width:1px;text-align:right;margin:0;padding:0 2px;vertical-align:top;}
+.css.geshifilter-css .li2 {font-family: monospace; font-weight: bold; font-style: italic;}
+.css.geshifilter-css .kw1 {color: #000000; font-weight: bold;}
+.css.geshifilter-css .kw2 {color: #993333;}
+.css.geshifilter-css .kw3 {color: #9932cc;}
+.css.geshifilter-css .kw4 {color: #dc143c;}
+.css.geshifilter-css .kw5 {color: #F5758F;}
+.css.geshifilter-css .co2 {color: #ff0000; font-style: italic;}
+.css.geshifilter-css .coMULTI {color: #808080; font-style: italic;}
+.css.geshifilter-css .es0 {color: #000099; font-weight: bold;}
+.css.geshifilter-css .es2 {color: #000099; font-weight: bold;}
+.css.geshifilter-css .br0 {color: #00AA00;}
+.css.geshifilter-css .sy0 {color: #00AA00;}
+.css.geshifilter-css .st0 {color: #ff0000;}
+.css.geshifilter-css .nu0 {color: #cc66cc;}
+.css.geshifilter-css .re0 {color: #cc00cc;}
+.css.geshifilter-css .re1 {color: #6666ff;}
+.css.geshifilter-css .re2 {color: #3F84D9; font-weight: bold;}
+.css.geshifilter-css .re3 {color: #933;}
+.css.geshifilter-css .re4 {color: #444;}
+.css.geshifilter-css .ln-xtra, .css.geshifilter-css li.ln-xtra, .css.geshifilter-css div.ln-xtra {background-color: #ffc;}
+.css.geshifilter-css span.xtra { display:block; }
+
+/**
+ * GeSHi Dynamically Generated Stylesheet
+ * --------------------------------------
+ * Dynamically generated stylesheet for html4strict
+ * CSS class: geshifilter-html4strict, CSS id: 
+ * GeSHi (C) 2004 - 2007 Nigel McNie, 2007 - 2014 Benny Baumann
+ * (http://qbnz.com/highlighter/ and http://geshi.org/)
+ * --------------------------------------
+ */
+.html4strict.geshifilter-html4strict .de1, .html4strict.geshifilter-html4strict .de2 {font-family: monospace; font-weight: normal; font-style: normal}
+.html4strict.geshifilter-html4strict  {font-family:monospace;}
+.html4strict.geshifilter-html4strict .imp {font-weight: bold; color: red;}
+.html4strict.geshifilter-html4strict li, .html4strict.geshifilter-html4strict .li1 {font-family: monospace; font-weight: normal;}
+.html4strict.geshifilter-html4strict .ln {width:1px;text-align:right;margin:0;padding:0 2px;vertical-align:top;}
+.html4strict.geshifilter-html4strict .li2 {font-family: monospace; font-weight: bold; font-style: italic;}
+.html4strict.geshifilter-html4strict .kw2 {color: #000000; font-weight: bold;}
+.html4strict.geshifilter-html4strict .kw3 {color: #000066;}
+.html4strict.geshifilter-html4strict .es0 {color: #000099; font-weight: bold;}
+.html4strict.geshifilter-html4strict .br0 {color: #66cc66;}
+.html4strict.geshifilter-html4strict .sy0 {color: #66cc66;}
+.html4strict.geshifilter-html4strict .st0 {color: #ff0000;}
+.html4strict.geshifilter-html4strict .nu0 {color: #cc66cc;}
+.html4strict.geshifilter-html4strict .sc-2 {color: #404040;}
+.html4strict.geshifilter-html4strict .sc-1 {color: #808080; font-style: italic;}
+.html4strict.geshifilter-html4strict .sc0 {color: #00bbdd;}
+.html4strict.geshifilter-html4strict .sc1 {color: #ddbb00;}
+.html4strict.geshifilter-html4strict .sc2 {color: #009900;}
+.html4strict.geshifilter-html4strict .ln-xtra, .html4strict.geshifilter-html4strict li.ln-xtra, .html4strict.geshifilter-html4strict div.ln-xtra {background-color: #ffc;}
+.html4strict.geshifilter-html4strict span.xtra { display:block; }
+
+/**
+ * GeSHi Dynamically Generated Stylesheet
+ * --------------------------------------
+ * Dynamically generated stylesheet for javascript
+ * CSS class: geshifilter-javascript, CSS id: 
+ * GeSHi (C) 2004 - 2007 Nigel McNie, 2007 - 2014 Benny Baumann
+ * (http://qbnz.com/highlighter/ and http://geshi.org/)
+ * --------------------------------------
+ */
+.javascript.geshifilter-javascript .de1, .javascript.geshifilter-javascript .de2 {font-family: monospace; font-weight: normal; font-style: normal}
+.javascript.geshifilter-javascript  {font-family:monospace;}
+.javascript.geshifilter-javascript .imp {font-weight: bold; color: red;}
+.javascript.geshifilter-javascript li, .javascript.geshifilter-javascript .li1 {font-family: monospace; font-weight: normal;}
+.javascript.geshifilter-javascript .ln {width:1px;text-align:right;margin:0;padding:0 2px;vertical-align:top;}
+.javascript.geshifilter-javascript .li2 {font-family: monospace; font-weight: bold; font-style: italic;}
+.javascript.geshifilter-javascript .kw1 {color: #000066; font-weight: bold;}
+.javascript.geshifilter-javascript .kw2 {color: #003366; font-weight: bold;}
+.javascript.geshifilter-javascript .kw3 {color: #000066;}
+.javascript.geshifilter-javascript .kw5 {color: #FF0000;}
+.javascript.geshifilter-javascript .co1 {color: #006600; font-style: italic;}
+.javascript.geshifilter-javascript .co2 {color: #009966; font-style: italic;}
+.javascript.geshifilter-javascript .coMULTI {color: #006600; font-style: italic;}
+.javascript.geshifilter-javascript .es0 {color: #000099; font-weight: bold;}
+.javascript.geshifilter-javascript .br0 {color: #009900;}
+.javascript.geshifilter-javascript .sy0 {color: #339933;}
+.javascript.geshifilter-javascript .st0 {color: #3366CC;}
+.javascript.geshifilter-javascript .nu0 {color: #CC0000;}
+.javascript.geshifilter-javascript .me1 {color: #660066;}
+.javascript.geshifilter-javascript .ln-xtra, .javascript.geshifilter-javascript li.ln-xtra, .javascript.geshifilter-javascript div.ln-xtra {background-color: #ffc;}
+.javascript.geshifilter-javascript span.xtra { display:block; }
+
+/**
+ * GeSHi Dynamically Generated Stylesheet
+ * --------------------------------------
+ * Dynamically generated stylesheet for jquery
+ * CSS class: geshifilter-jquery, CSS id: 
+ * GeSHi (C) 2004 - 2007 Nigel McNie, 2007 - 2014 Benny Baumann
+ * (http://qbnz.com/highlighter/ and http://geshi.org/)
+ * --------------------------------------
+ */
+.jquery.geshifilter-jquery .de1, .jquery.geshifilter-jquery .de2 {font-family: monospace; font-weight: normal; font-style: normal}
+.jquery.geshifilter-jquery  {font-family:monospace;}
+.jquery.geshifilter-jquery .imp {font-weight: bold; color: red;}
+.jquery.geshifilter-jquery li, .jquery.geshifilter-jquery .li1 {font-family: monospace; font-weight: normal;}
+.jquery.geshifilter-jquery .ln {width:1px;text-align:right;margin:0;padding:0 2px;vertical-align:top;}
+.jquery.geshifilter-jquery .li2 {font-family: monospace; font-weight: bold; font-style: italic;}
+.jquery.geshifilter-jquery .kw1 {color: #000066; font-weight: bold;}
+.jquery.geshifilter-jquery .kw2 {color: #003366; font-weight: bold;}
+.jquery.geshifilter-jquery .kw3 {color: #000066;}
+.jquery.geshifilter-jquery .kw4 {color: #000066;}
+.jquery.geshifilter-jquery .kw5 {color: #000066;}
+.jquery.geshifilter-jquery .kw6 {color: #000066;}
+.jquery.geshifilter-jquery .kw7 {color: #000066;}
+.jquery.geshifilter-jquery .kw8 {color: #000066;}
+.jquery.geshifilter-jquery .kw9 {color: #000066;}
+.jquery.geshifilter-jquery .kw10 {color: #000066;}
+.jquery.geshifilter-jquery .kw11 {color: #000066;}
+.jquery.geshifilter-jquery .kw12 {color: #000066;}
+.jquery.geshifilter-jquery .co1 {color: #006600; font-style: italic;}
+.jquery.geshifilter-jquery .co2 {color: #009966; font-style: italic;}
+.jquery.geshifilter-jquery .coMULTI {color: #006600; font-style: italic;}
+.jquery.geshifilter-jquery .es0 {color: #000099; font-weight: bold;}
+.jquery.geshifilter-jquery .br0 {color: #009900;}
+.jquery.geshifilter-jquery .sy0 {color: #339933;}
+.jquery.geshifilter-jquery .sy1 {color: #000066;}
+.jquery.geshifilter-jquery .st0 {color: #3366CC;}
+.jquery.geshifilter-jquery .nu0 {color: #CC0000;}
+.jquery.geshifilter-jquery .me1 {color: #660066;}
+.jquery.geshifilter-jquery .ln-xtra, .jquery.geshifilter-jquery li.ln-xtra, .jquery.geshifilter-jquery div.ln-xtra {background-color: #ffc;}
+.jquery.geshifilter-jquery span.xtra { display:block; }
+
+/**
+ * GeSHi Dynamically Generated Stylesheet
+ * --------------------------------------
+ * Dynamically generated stylesheet for php
+ * CSS class: geshifilter-php, CSS id: 
+ * GeSHi (C) 2004 - 2007 Nigel McNie, 2007 - 2014 Benny Baumann
+ * (http://qbnz.com/highlighter/ and http://geshi.org/)
+ * --------------------------------------
+ */
+.php.geshifilter-php .de1, .php.geshifilter-php .de2 {font-family: monospace; font-weight: normal; font-style: normal}
+.php.geshifilter-php  {font-family:monospace;}
+.php.geshifilter-php .imp {font-weight: bold; color: red;}
+.php.geshifilter-php li, .php.geshifilter-php .li1 {font-family: monospace; font-weight: normal;}
+.php.geshifilter-php .ln {width:1px;text-align:right;margin:0;padding:0 2px;vertical-align:top;}
+.php.geshifilter-php .li2 {font-family: monospace; font-weight: bold; font-style: italic;}
+.php.geshifilter-php .kw1 {color: #b1b100;}
+.php.geshifilter-php .kw2 {color: #000000; font-weight: bold;}
+.php.geshifilter-php .kw3 {color: #990000;}
+.php.geshifilter-php .kw4 {color: #009900; font-weight: bold;}
+.php.geshifilter-php .co1 {color: #666666; font-style: italic;}
+.php.geshifilter-php .co2 {color: #666666; font-style: italic;}
+.php.geshifilter-php .co3 {color: #0000cc; font-style: italic;}
+.php.geshifilter-php .co4 {color: #009933; font-style: italic;}
+.php.geshifilter-php .coMULTI {color: #666666; font-style: italic;}
+.php.geshifilter-php .es0 {color: #000099; font-weight: bold;}
+.php.geshifilter-php .es1 {color: #000099; font-weight: bold;}
+.php.geshifilter-php .es2 {color: #660099; font-weight: bold;}
+.php.geshifilter-php .es3 {color: #660099; font-weight: bold;}
+.php.geshifilter-php .es4 {color: #006699; font-weight: bold;}
+.php.geshifilter-php .es5 {color: #006699; font-weight: bold; font-style: italic;}
+.php.geshifilter-php .es6 {color: #009933; font-weight: bold;}
+.php.geshifilter-php .es_h {color: #000099; font-weight: bold;}
+.php.geshifilter-php .br0 {color: #009900;}
+.php.geshifilter-php .sy0 {color: #339933;}
+.php.geshifilter-php .sy1 {color: #000000; font-weight: bold;}
+.php.geshifilter-php .st0 {color: #0000ff;}
+.php.geshifilter-php .st_h {color: #0000ff;}
+.php.geshifilter-php .nu0 {color: #cc66cc;}
+.php.geshifilter-php .nu8 {color: #208080;}
+.php.geshifilter-php .nu12 {color: #208080;}
+.php.geshifilter-php .nu19 {color:#800080;}
+.php.geshifilter-php .me1 {color: #004000;}
+.php.geshifilter-php .me2 {color: #004000;}
+.php.geshifilter-php .re0 {color: #000088;}
+.php.geshifilter-php .ln-xtra, .php.geshifilter-php li.ln-xtra, .php.geshifilter-php div.ln-xtra {background-color: #ffc;}
+.php.geshifilter-php span.xtra { display:block; }
+
