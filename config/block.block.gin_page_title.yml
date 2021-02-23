@@ -1,14 +1,14 @@
-uuid: 7188b8c5-a42e-4326-bd73-f3947a2d3277
+uuid: 42c8aa35-b30d-421a-822a-a3d26a0622de
 langcode: en
 status: true
 dependencies:
   theme:
-    - seven
+    - gin
 _core:
-  default_config_hash: 8yptDf6WrXxeyevUz4nP5vfr7BtxQqCBMninhV2IJ1g
-id: seven_page_title
-theme: seven
-region: content
+  default_config_hash: HLQY2xgby8K3vN_98hiOSasOhm9pdCsH234-s0duJ8Q
+id: gin_page_title
+theme: gin
+region: header
 weight: -30
 provider: null
 plugin: page_title_block
