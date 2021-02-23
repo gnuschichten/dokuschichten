@@ -18,7 +18,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2021-02-20T14:43:02+00:00",
+            "value": "2021-02-23T09:29:39+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2021-02-20T14:43:02+00:00",
+            "value": "2021-02-23T09:29:39+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "body": [
         {
-            "value": "# Test\r\n[Test](http:\/\/example.org)\r\n\r\n``There is a literal backtick (`) here.``\r\n\r\n``code``\r\n\r\n``php\r\ncode\r\n``",
+            "value": "# headline\r\n```php\r\n\r\n<?php\r\necho \"Hallo Welt\";\r\n\r\n\/\/ Zeichenketten k\u00f6nnen entweder individuell als mehrere Argumente oder\r\n\/\/ miteinander verbunden als einzelnes Argument \u00fcbergeben werden\r\necho 'Dieser ', 'String ', 'besteht ', 'aus ', 'mehreren Parametern.', chr(10);\r\necho 'Dieser  ' . 'String ' . 'wurde ' . 'mit ' . 'Stringverkettung erzeugt.' . \"\\n\";\r\n\r\n\/\/ Da echo sich nicht wie eine Funktion verh\u00e4lt, ist der folgende Code ung\u00fcltig.\r\n($eine_variable) ? echo 'true' : echo 'false';\r\n\r\n\/\/ Folgende Beispiele funktionieren hingegen:\r\n($eine_variable) ? print 'true': print 'false'; \/\/ print ist ebenfalls ein\r\n                         \/\/ Konstrukt, aber es verh\u00e4lt sich wie eine Funktion,\r\n                         \/\/ so dass es in diesem Kontext verwendet werden kann\r\necho $eine_variable ? 'true': 'false'; \/\/ Das Statement herumgedreht\r\n?>\r\n\r\n```",
             "format": "markdown",
             "summary": ""
         }
