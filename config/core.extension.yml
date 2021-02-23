@@ -11,6 +11,7 @@ module:
   filter: 0
   geshifield: 0
   geshifilter: 0
+  gin_login: 0
   gin_toolbar: 0
   link: 0
   markdown: 0
