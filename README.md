@@ -14,14 +14,7 @@ work!
 
 ## Usage
 
-To create a new Tome project, run:
-
-```bash
-composer create-project drupal-tome/tome-project my_site --stability dev --no-interaction
-drush tome:init
-```
-
-To re-install Tome, run:
+To create a new documentations based Tome project, run:
 
 ```bash
 drush tome:install
@@ -30,7 +23,7 @@ drush tome:install
 To start a local webserver, run:
 
 ```bash
-drush runserver
+drush runserver --uri "example.local:8888"
 ```
 
 When you're ready to build your static site, run:
