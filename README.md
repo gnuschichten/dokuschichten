@@ -1,4 +1,4 @@
-# Composer template for Tome projects
+# Composer template for Tome documentation projects
 
 This project is a great place to start for building brand new Tome projects.
 
@@ -14,7 +14,12 @@ work!
 
 ## Usage
 
-To create a new documentations based Tome project, run:
+To create a new Tome Documentation project, run:
+
+(You need composer 1)
+```bash
+composer install
+```
 
 ```bash
 drush tome:install
@@ -24,6 +29,12 @@ To start a local webserver, run:
 
 ```bash
 drush runserver --uri "example.local:8888"
+```
+
+Login Admin User, run:
+
+```bash
+drush uli --uri "example.local:8888"
 ```
 
 When you're ready to build your static site, run:
@@ -41,11 +52,6 @@ This is done to improve DX, but only works on systems that support `bash`, and
 symlinks. If you're running Windows you'll probably want to write a custom
 script to replace `symlink.sh`, and use the `mklink` command. Pull requests are
 welcome to make this functionality cross-platform by default.
-
-## Docker
-
-A Docker image for Tome is available on Docker Hub as `mortenson/tome`.
-Instructions on how to use the image can be found at [drupal-tome/tome-docker].
 
 ## Further reading
 
