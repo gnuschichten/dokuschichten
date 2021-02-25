@@ -1,6 +1,7 @@
 module:
   admin_toolbar: 0
   block: 0
+  block_content: 0
   breakpoint: 0
   contextual: 0
   dblog: 0
@@ -25,7 +26,6 @@ module:
   serialization: 0
   system: 0
   taxonomy: 0
-  taxonomy_menu: 0
   text: 0
   tome: 0
   tome_base: 0
