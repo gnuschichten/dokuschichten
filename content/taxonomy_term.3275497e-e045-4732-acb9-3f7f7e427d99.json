@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "669340a3-34dd-45c3-b6ac-88a1c8de1218"
+            "value": "3275497e-e045-4732-acb9-3f7f7e427d99"
         }
     ],
     "langcode": [
@@ -9,66 +9,45 @@
             "value": "en"
         }
     ],
-    "bundle": [
+    "vid": [
         {
-            "value": "menu_link_content"
+            "target_id": "javascript",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "93bb2d1c-b6fb-4f4c-a587-48a152bfb1c7"
         }
     ],
     "revision_created": [
         {
-            "value": "2021-02-09T17:36:08+00:00",
+            "value": "2021-02-25T07:26:10+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_user": [],
     "revision_log_message": [],
-    "enabled": [
+    "status": [
         {
             "value": true
         }
     ],
-    "title": [
+    "name": [
         {
-            "value": "Drupal"
+            "value": "Svelte"
         }
     ],
     "description": [],
-    "menu_name": [
-        {
-            "value": "main"
-        }
-    ],
-    "link": [
-        {
-            "uri": "internal:\/",
-            "title": "",
-            "options": []
-        }
-    ],
-    "external": [
-        {
-            "value": false
-        }
-    ],
-    "rediscover": [
-        {
-            "value": true
-        }
-    ],
     "weight": [
         {
             "value": 0
         }
     ],
-    "expanded": [
+    "parent": [
         {
-            "value": false
+            "target_id": null
         }
     ],
-    "parent": [],
     "changed": [
         {
-            "value": "2021-02-09T17:36:08+00:00",
+            "value": "2021-02-25T07:26:10+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -80,6 +59,13 @@
     "revision_translation_affected": [
         {
             "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en"
         }
     ]
 }

@@ -1,0 +1,16 @@
+uuid: 88959a8b-087c-4008-bdab-327632b9c4d0
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.main
+    - taxonomy.vocabulary.drupal
+id: drupal
+label: Drupal
+vocabulary: drupal
+menu: main
+expanded: false
+depth: 0
+menu_parent: 'admin:'
+description_field_name: null
+use_term_weight_order: true

@@ -24,6 +24,8 @@ module:
   path_alias: 0
   serialization: 0
   system: 0
+  taxonomy: 0
+  taxonomy_menu: 0
   text: 0
   tome: 0
   tome_base: 0
