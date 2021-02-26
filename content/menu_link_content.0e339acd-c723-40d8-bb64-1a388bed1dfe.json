@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "aa150633-83a5-4413-82f4-5af3af2bec0d"
+            "value": "0e339acd-c723-40d8-bb64-1a388bed1dfe"
         }
     ],
     "langcode": [
@@ -9,45 +9,66 @@
             "value": "en"
         }
     ],
-    "vid": [
+    "bundle": [
         {
-            "target_id": "drupal",
-            "target_type": "taxonomy_vocabulary",
-            "target_uuid": "fe0574a8-2cf7-4ad9-8a53-70a4fd87c1c1"
+            "value": "menu_link_content"
         }
     ],
     "revision_created": [
         {
-            "value": "2021-02-25T09:13:31+00:00",
+            "value": "2021-02-26T08:16:04+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_user": [],
     "revision_log_message": [],
-    "status": [
+    "enabled": [
         {
             "value": true
         }
     ],
-    "name": [
+    "title": [
         {
-            "value": "Theme"
+            "value": "Drupal"
         }
     ],
     "description": [],
+    "menu_name": [
+        {
+            "value": "topics"
+        }
+    ],
+    "link": [
+        {
+            "uri": "internal:\/taxonomy\/term\/5",
+            "title": null,
+            "options": []
+        }
+    ],
+    "external": [
+        {
+            "value": false
+        }
+    ],
+    "rediscover": [
+        {
+            "value": true
+        }
+    ],
     "weight": [
         {
             "value": 0
         }
     ],
-    "parent": [
+    "expanded": [
         {
-            "target_id": null
+            "value": false
         }
     ],
+    "parent": [],
     "changed": [
         {
-            "value": "2021-02-25T09:20:14+00:00",
+            "value": "2021-02-26T08:16:04+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -59,13 +80,6 @@
     "revision_translation_affected": [
         {
             "value": true
-        }
-    ],
-    "path": [
-        {
-            "alias": null,
-            "pid": null,
-            "langcode": "en"
         }
     ]
 }

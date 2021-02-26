@@ -4,7 +4,8 @@ status: true
 dependencies:
   config:
     - field.field.node.markdown.body
-    - field.field.node.markdown.field_term
+    - field.field.node.markdown.field_tags
+    - field.field.node.markdown.field_topic
     - node.type.markdown
   module:
     - path
@@ -30,7 +31,17 @@ content:
     region: content
     settings: {  }
     third_party_settings: {  }
-  field_term:
+  field_tags:
+    weight: 123
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: entity_reference_autocomplete
+    region: content
+  field_topic:
     weight: 122
     settings: {  }
     third_party_settings: {  }

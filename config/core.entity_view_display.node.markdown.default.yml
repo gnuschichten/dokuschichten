@@ -4,7 +4,8 @@ status: true
 dependencies:
   config:
     - field.field.node.markdown.body
-    - field.field.node.markdown.field_term
+    - field.field.node.markdown.field_tags
+    - field.field.node.markdown.field_topic
     - node.type.markdown
   module:
     - text
@@ -21,9 +22,17 @@ content:
     settings: {  }
     third_party_settings: {  }
     region: content
-  field_term:
+  field_tags:
+    weight: 103
+    label: hidden
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  field_topic:
     weight: 102
-    label: above
+    label: hidden
     settings:
       link: true
     third_party_settings: {  }
@@ -31,7 +40,7 @@ content:
     region: content
   links:
     weight: 100
+    region: content
     settings: {  }
     third_party_settings: {  }
-    region: content
 hidden: {  }

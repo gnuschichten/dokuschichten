@@ -5,7 +5,8 @@ dependencies:
   config:
     - core.entity_view_mode.node.teaser
     - field.field.node.markdown.body
-    - field.field.node.markdown.field_term
+    - field.field.node.markdown.field_tags
+    - field.field.node.markdown.field_topic
     - node.type.markdown
   module:
     - text
@@ -29,4 +30,5 @@ content:
     third_party_settings: {  }
     region: content
 hidden:
-  field_term: true
+  field_tags: true
+  field_topic: true

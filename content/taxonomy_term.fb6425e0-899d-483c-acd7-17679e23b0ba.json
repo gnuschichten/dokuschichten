@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "b7553e43-703e-4753-852b-a99ed5be220b"
+            "value": "fb6425e0-899d-483c-acd7-17679e23b0ba"
         }
     ],
     "langcode": [
@@ -11,14 +11,14 @@
     ],
     "vid": [
         {
-            "target_id": "drupal",
+            "target_id": "topic",
             "target_type": "taxonomy_vocabulary",
-            "target_uuid": "fe0574a8-2cf7-4ad9-8a53-70a4fd87c1c1"
+            "target_uuid": "811560f1-5c0a-4bcc-a139-b4628f768484"
         }
     ],
     "revision_created": [
         {
-            "value": "2021-02-25T09:12:56+00:00",
+            "value": "2021-02-26T08:17:15+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -31,13 +31,13 @@
     ],
     "name": [
         {
-            "value": "Twig"
+            "value": "JavaScript"
         }
     ],
     "description": [],
     "weight": [
         {
-            "value": 1
+            "value": 2
         }
     ],
     "parent": [
@@ -47,7 +47,7 @@
     ],
     "changed": [
         {
-            "value": "2021-02-25T09:33:59+00:00",
+            "value": "2021-02-26T08:44:34+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -63,8 +63,7 @@
     ],
     "path": [
         {
-            "alias": null,
-            "pid": null,
+            "alias": "\/javascript",
             "langcode": "en"
         }
     ]

@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "a8884954-49de-4b69-a46e-c4591dfb77a8"
+            "value": "983019d2-44e9-485a-96bf-cd20c15edf5e"
         }
     ],
     "langcode": [
@@ -11,14 +11,14 @@
     ],
     "vid": [
         {
-            "target_id": "javascript",
+            "target_id": "tags",
             "target_type": "taxonomy_vocabulary",
-            "target_uuid": "93bb2d1c-b6fb-4f4c-a587-48a152bfb1c7"
+            "target_uuid": "6c9d2258-fcaa-4e26-9e5e-0b401c840a51"
         }
     ],
     "revision_created": [
         {
-            "value": "2021-02-25T09:48:00+00:00",
+            "value": "2021-02-26T08:25:24+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -31,7 +31,7 @@
     ],
     "name": [
         {
-            "value": "Svelte"
+            "value": "Twig"
         }
     ],
     "description": [],
@@ -47,7 +47,7 @@
     ],
     "changed": [
         {
-            "value": "2021-02-25T09:48:00+00:00",
+            "value": "2021-02-26T08:25:24+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -63,7 +63,7 @@
     ],
     "path": [
         {
-            "alias": "",
+            "alias": null,
             "pid": null,
             "langcode": "en"
         }

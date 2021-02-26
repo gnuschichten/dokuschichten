@@ -1,4 +1,4 @@
-uuid: 93bb2d1c-b6fb-4f4c-a587-48a152bfb1c7
+uuid: 811560f1-5c0a-4bcc-a139-b4628f768484
 langcode: en
 status: true
 dependencies:
@@ -7,9 +7,9 @@ dependencies:
 third_party_settings:
   menu_ui:
     available_menus:
-      - main
-    parent: 'main:'
-name: JavaScript
-vid: javascript
+      - topics
+    parent: 'topics:'
+name: Topic
+vid: topic
 description: ''
 weight: 0

@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "83d68989-5540-4063-9866-b24f57c58e05"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/taxonomy\/term\/6"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/javascript"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

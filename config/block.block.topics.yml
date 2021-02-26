@@ -1,22 +1,22 @@
-uuid: 2764641e-9944-4304-b140-90b6db6bf55a
+uuid: 8e5ce9d2-bf2f-4ea7-9820-724a6017fbbe
 langcode: en
-status: false
+status: true
 dependencies:
   config:
-    - system.menu.main
+    - system.menu.topics
   module:
     - system
   theme:
     - bartik
-id: mainnavigation
+id: topics
 theme: bartik
 region: primary_menu
-weight: -3
+weight: 0
 provider: null
-plugin: 'system_menu_block:main'
+plugin: 'system_menu_block:topics'
 settings:
-  id: 'system_menu_block:main'
-  label: 'Main navigation'
+  id: 'system_menu_block:topics'
+  label: Topics
   provider: system
   label_display: visible
   level: 1

@@ -1,0 +1,14 @@
+uuid: 6c9d2258-fcaa-4e26-9e5e-0b401c840a51
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: Tags
+vid: tags
+description: ''
+weight: 0
