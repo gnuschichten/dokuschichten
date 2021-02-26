@@ -1,4 +1,4 @@
-uuid: 148d7951-ca5d-4cda-9346-b6c81c1ffba1
+uuid: 6c9d2258-fcaa-4e26-9e5e-0b401c840a51
 langcode: en
 status: true
 dependencies:
@@ -8,10 +8,7 @@ third_party_settings:
   menu_ui:
     available_menus: {  }
     parent: ''
-name: Markdown
-type: markdown
+name: Tags
+vid: tags
 description: ''
-help: ''
-new_revision: true
-preview_mode: 1
-display_submitted: true
+weight: 0

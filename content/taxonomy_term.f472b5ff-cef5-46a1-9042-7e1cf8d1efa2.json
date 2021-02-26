@@ -1,0 +1,70 @@
+{
+    "uuid": [
+        {
+            "value": "f472b5ff-cef5-46a1-9042-7e1cf8d1efa2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "topic",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "811560f1-5c0a-4bcc-a139-b4628f768484"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2021-02-26T08:16:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "name": [
+        {
+            "value": "Drupal"
+        }
+    ],
+    "description": [],
+    "weight": [
+        {
+            "value": 1
+        }
+    ],
+    "parent": [
+        {
+            "target_id": null
+        }
+    ],
+    "changed": [
+        {
+            "value": "2021-02-26T15:07:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/drupal",
+            "langcode": "en"
+        }
+    ]
+}

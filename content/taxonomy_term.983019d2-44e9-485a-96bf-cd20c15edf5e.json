@@ -1,7 +1,7 @@
 {
     "uuid": [
         {
-            "value": "669340a3-34dd-45c3-b6ac-88a1c8de1218"
+            "value": "983019d2-44e9-485a-96bf-cd20c15edf5e"
         }
     ],
     "langcode": [
@@ -9,66 +9,45 @@
             "value": "en"
         }
     ],
-    "bundle": [
+    "vid": [
         {
-            "value": "menu_link_content"
+            "target_id": "tags",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "6c9d2258-fcaa-4e26-9e5e-0b401c840a51"
         }
     ],
     "revision_created": [
         {
-            "value": "2021-02-09T17:36:08+00:00",
+            "value": "2021-02-26T08:25:24+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "revision_user": [],
     "revision_log_message": [],
-    "enabled": [
+    "status": [
         {
             "value": true
         }
     ],
-    "title": [
+    "name": [
         {
-            "value": "Drupal"
+            "value": "Twig"
         }
     ],
     "description": [],
-    "menu_name": [
-        {
-            "value": "main"
-        }
-    ],
-    "link": [
-        {
-            "uri": "internal:\/",
-            "title": "",
-            "options": []
-        }
-    ],
-    "external": [
-        {
-            "value": false
-        }
-    ],
-    "rediscover": [
-        {
-            "value": true
-        }
-    ],
     "weight": [
         {
             "value": 0
         }
     ],
-    "expanded": [
+    "parent": [
         {
-            "value": false
+            "target_id": null
         }
     ],
-    "parent": [],
     "changed": [
         {
-            "value": "2021-02-09T17:36:08+00:00",
+            "value": "2021-02-26T08:25:24+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -80,6 +59,13 @@
     "revision_translation_affected": [
         {
             "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en"
         }
     ]
 }

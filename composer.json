@@ -31,7 +31,8 @@
         "drupal/bootstrap_barrio": "^5.5@beta",
         "drupal/admin_toolbar": "^3.0",
         "drupal/gin": "^3.0@alpha",
-        "drupal/gin_login": "^1.0@RC"
+        "drupal/gin_login": "^1.0@RC",
+        "drupal/taxonomy_menu": "^3.4"
     },
     "scripts": {
         "symlink": "./scripts/symlink.sh",

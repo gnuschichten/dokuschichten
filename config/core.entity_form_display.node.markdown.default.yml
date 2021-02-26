@@ -4,8 +4,11 @@ status: true
 dependencies:
   config:
     - field.field.node.markdown.body
+    - field.field.node.markdown.field_tags
+    - field.field.node.markdown.field_topic
     - node.type.markdown
   module:
+    - path
     - text
 id: node.markdown.default
 targetEntityType: node
@@ -25,6 +28,28 @@ content:
   created:
     type: datetime_timestamp
     weight: 10
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_tags:
+    weight: 123
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: entity_reference_autocomplete
+    region: content
+  field_topic:
+    weight: 122
+    settings: {  }
+    third_party_settings: {  }
+    type: options_buttons
+    region: content
+  path:
+    type: path
+    weight: 30
     region: content
     settings: {  }
     third_party_settings: {  }

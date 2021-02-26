@@ -1,0 +1,15 @@
+uuid: 811560f1-5c0a-4bcc-a139-b4628f768484
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - topics
+    parent: 'topics:'
+name: Topic
+vid: topic
+description: ''
+weight: 0
