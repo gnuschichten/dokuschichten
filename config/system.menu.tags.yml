@@ -1,8 +1,0 @@
-uuid: f75a27c7-3922-496d-bd3e-68bc2b5765cc
-langcode: en
-status: true
-dependencies: {  }
-id: tags
-label: Tags
-description: ''
-locked: false
